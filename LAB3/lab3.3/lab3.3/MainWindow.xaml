@@ -1,0 +1,19 @@
+﻿<Window x:Class="IntegerOverflowApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Integer Overflow Example" Height="250" Width="400">
+    <Grid Margin="10">
+        <StackPanel Background="#FFFFB5B5">
+            <TextBlock Text="Введите первое число:" Margin="0,0,0,5"/>
+            <TextBox x:Name="FirstNumberTextBox" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Введите второе число:" Margin="0,0,0,5"/>
+            <TextBox x:Name="SecondNumberTextBox" Margin="0,0,0,10"/>
+
+            <Button Content="Умножить" Click="DoMultiply_Click" Width="100"/>
+            <TextBlock x:Name="ResultTextBlock" Margin="0,10,0,0" FontWeight="Bold"/>
+            <Button Content="Умножить (без проверки)" Click="DoMultiplyUnchecked_Click" Width="150"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

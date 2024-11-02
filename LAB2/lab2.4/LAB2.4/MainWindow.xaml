@@ -1,0 +1,49 @@
+﻿<Window x:Class="MatrixMultiplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Matrix Multiplication" Height="450" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Размеры матриц -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Left" Margin="10,10,0,10" Width="571">
+            <Label Content="Матрица 1: " VerticalAlignment="Center"/>
+            <ComboBox x:Name="comboBoxRows1" Width="50" Margin="5"/>
+            <Label Content="x" VerticalAlignment="Center"/>
+            <ComboBox x:Name="comboBoxColumns1" Width="50" Margin="5"/>
+            <Label Content="Матрица 2: " VerticalAlignment="Center"/>
+            <ComboBox x:Name="comboBoxRows2" Width="50" Margin="5"/>
+            <Label Content="x" VerticalAlignment="Center"/>
+            <ComboBox x:Name="comboBoxColumns2" Width="50" Margin="5"/>
+            <Label Content="Результат"/>
+        </StackPanel>
+
+        <!-- Grid-контролы для матриц -->
+        <Grid Grid.Row="1" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <ScrollViewer Grid.Column="0" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Background="#FFFF8686">
+                <Grid x:Name="grid1" Margin="5"/>
+            </ScrollViewer>
+            <ScrollViewer Grid.Column="1" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Background="#FFFFD6D6">
+                <Grid x:Name="grid2" Margin="5"/>
+            </ScrollViewer>
+            <ScrollViewer Grid.Column="2" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Background="White">
+                <Grid x:Name="grid3" Margin="5"/>
+            </ScrollViewer>
+        </Grid>
+
+        <!-- Кнопка для ввода значений в матрицы -->
+        <Button Grid.Row="2" Content="Ввести значения" Width="100" Height="30" HorizontalAlignment="Center" Margin="10" Click="buttonInputValues_Click" Background="#FFFFE9F4"/>
+        
+        <!-- Кнопка для выполнения умножения -->
+        <Button Grid.Row="2" Content="Вычислить" Width="100" Height="30" HorizontalAlignment="Right" Margin="10" Click="buttonCalculate_Click" Background="#FFFFE9F4"/>
+    </Grid>
+</Window>

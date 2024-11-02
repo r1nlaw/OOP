@@ -1,0 +1,17 @@
+﻿<Window x:Class="GCDCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GCD Calculator" Height="250" Width="400" Background="#FFD0BBC8">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Введите числа (через пробел):" VerticalAlignment="Top" HorizontalAlignment="Center" Height="26" Width="178"/>
+        <TextBox x:Name="txtInput" VerticalAlignment="Top" HorizontalAlignment="Center" Width="360" Margin="0,30,0,0" Height="18"/>
+
+        <Button Content="Найти НОД" VerticalAlignment="Top" HorizontalAlignment="Left" Width="100" Margin="0,70,0,0" Click="FindGCDFromString_Click" Height="20"/>
+
+        <Label x:Name="resultEuclid" Content="Результат:" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="0,110,0,0" FontWeight="Bold" Height="26" Width="69"/>
+    </Grid>
+</Window>

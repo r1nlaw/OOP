@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\unkak\\source\\repos\\LAB2.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5ECE2E5-64CC-49DB-BB8B-45606A3B84F9}|LAB2.2\\LAB2.2.csproj|C:\\Users\\unkak\\source\\repos\\LAB2.2\\lab2.2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5ECE2E5-64CC-49DB-BB8B-45606A3B84F9}|LAB2.2\\LAB2.2.csproj|solutionrelative:lab2.2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DD9EE5-4CC5-41BE-A21B-126A8612ECBA}|LAB2.2Tests\\LAB2.2Tests.csproj|c:\\users\\unkak\\source\\repos\\lab2.2\\lab2.2tests\\gcdalgorithmstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DD9EE5-4CC5-41BE-A21B-126A8612ECBA}|LAB2.2Tests\\LAB2.2Tests.csproj|solutionrelative:lab2.2tests\\gcdalgorithmstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5ECE2E5-64CC-49DB-BB8B-45606A3B84F9}|LAB2.2\\LAB2.2.csproj|C:\\Users\\unkak\\source\\repos\\LAB2.2\\lab2.2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E5ECE2E5-64CC-49DB-BB8B-45606A3B84F9}|LAB2.2\\LAB2.2.csproj|solutionrelative:lab2.2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GCDAlgorithmsTests.cs",
+              "DocumentMoniker": "C:\\Users\\unkak\\source\\repos\\LAB2.2\\LAB2.2Tests\\GCDAlgorithmsTests.cs",
+              "RelativeDocumentMoniker": "LAB2.2Tests\\GCDAlgorithmsTests.cs",
+              "ToolTip": "C:\\Users\\unkak\\source\\repos\\LAB2.2\\LAB2.2Tests\\GCDAlgorithmsTests.cs",
+              "RelativeToolTip": "LAB2.2Tests\\GCDAlgorithmsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:13:03.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\unkak\\source\\repos\\LAB2.2\\LAB2.2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LAB2.2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\unkak\\source\\repos\\LAB2.2\\LAB2.2\\MainWindow.xaml",
+              "RelativeToolTip": "LAB2.2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T08:08:40.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\unkak\\source\\repos\\LAB2.2\\LAB2.2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LAB2.2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\unkak\\source\\repos\\LAB2.2\\LAB2.2\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "LAB2.2\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:08:39.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
