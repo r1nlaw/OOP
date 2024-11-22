@@ -12,3 +12,17 @@ C:\Users\unkak\source\repos\lab3.2\lab3.2\obj\Debug\lab3.2.csproj.GenerateResour
 C:\Users\unkak\source\repos\lab3.2\lab3.2\obj\Debug\lab3.2.csproj.CoreCompileInputs.cache
 C:\Users\unkak\source\repos\lab3.2\lab3.2\obj\Debug\lab3.2.exe
 C:\Users\unkak\source\repos\lab3.2\lab3.2\obj\Debug\lab3.2.pdb
+A:\Others\OOP\LAB3\lab3.2\lab3.2\bin\Debug\lab3.2.exe.config
+A:\Others\OOP\LAB3\lab3.2\lab3.2\bin\Debug\lab3.2.exe
+A:\Others\OOP\LAB3\lab3.2\lab3.2\bin\Debug\lab3.2.pdb
+A:\Others\OOP\LAB3\lab3.2\lab3.2\obj\Debug\lab3.2.csproj.AssemblyReference.cache
+A:\Others\OOP\LAB3\lab3.2\lab3.2\obj\Debug\MainWindow.baml
+A:\Others\OOP\LAB3\lab3.2\lab3.2\obj\Debug\MainWindow.g.cs
+A:\Others\OOP\LAB3\lab3.2\lab3.2\obj\Debug\App.g.cs
+A:\Others\OOP\LAB3\lab3.2\lab3.2\obj\Debug\lab3.2_MarkupCompile.cache
+A:\Others\OOP\LAB3\lab3.2\lab3.2\obj\Debug\lab3.2.g.resources
+A:\Others\OOP\LAB3\lab3.2\lab3.2\obj\Debug\lab3._2.Properties.Resources.resources
+A:\Others\OOP\LAB3\lab3.2\lab3.2\obj\Debug\lab3.2.csproj.GenerateResource.cache
+A:\Others\OOP\LAB3\lab3.2\lab3.2\obj\Debug\lab3.2.csproj.CoreCompileInputs.cache
+A:\Others\OOP\LAB3\lab3.2\lab3.2\obj\Debug\lab3.2.exe
+A:\Others\OOP\LAB3\lab3.2\lab3.2\obj\Debug\lab3.2.pdb

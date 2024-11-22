@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\unkak\\source\\repos\\lab3.3\\",
+  "WorkspaceRootPath": "A:\\Others\\OOP\\LAB3\\lab3.3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC6FEFF6-1E98-4917-9B40-CA364E466E2E}|lab3.3\\lab3.3.csproj|c:\\users\\unkak\\source\\repos\\lab3.3\\lab3.3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC6FEFF6-1E98-4917-9B40-CA364E466E2E}|lab3.3\\lab3.3.csproj|a:\\others\\oop\\lab3\\lab3.3\\lab3.3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC6FEFF6-1E98-4917-9B40-CA364E466E2E}|lab3.3\\lab3.3.csproj|solutionrelative:lab3.3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC6FEFF6-1E98-4917-9B40-CA364E466E2E}|lab3.3\\lab3.3.csproj|C:\\Users\\unkak\\source\\repos\\lab3.3\\lab3.3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{CC6FEFF6-1E98-4917-9B40-CA364E466E2E}|lab3.3\\lab3.3.csproj|A:\\Others\\OOP\\LAB3\\lab3.3\\lab3.3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CC6FEFF6-1E98-4917-9B40-CA364E466E2E}|lab3.3\\lab3.3.csproj|solutionrelative:lab3.3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -18,17 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\unkak\\source\\repos\\lab3.3\\lab3.3\\MainWindow.xaml.cs",
+              "DocumentMoniker": "A:\\Others\\OOP\\LAB3\\lab3.3\\lab3.3\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "lab3.3\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\unkak\\source\\repos\\lab3.3\\lab3.3\\MainWindow.xaml.cs",
+              "ToolTip": "A:\\Others\\OOP\\LAB3\\lab3.3\\lab3.3\\MainWindow.xaml.cs",
               "RelativeToolTip": "lab3.3\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T07:55:54.759Z",
               "EditorCaption": ""
@@ -37,16 +41,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\unkak\\source\\repos\\lab3.3\\lab3.3\\MainWindow.xaml",
+              "DocumentMoniker": "A:\\Others\\OOP\\LAB3\\lab3.3\\lab3.3\\MainWindow.xaml",
               "RelativeDocumentMoniker": "lab3.3\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\unkak\\source\\repos\\lab3.3\\lab3.3\\MainWindow.xaml",
+              "ToolTip": "A:\\Others\\OOP\\LAB3\\lab3.3\\lab3.3\\MainWindow.xaml",
               "RelativeToolTip": "lab3.3\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-01T07:55:55.218Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }

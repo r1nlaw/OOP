@@ -1,0 +1,18 @@
+﻿<Window x:Class="ComplexNumberApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Complex Number Calculator" Height="400" Width="600">
+    <Grid>
+        <TextBox Name="Real1TextBox" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" />
+        <TextBox Name="Imaginary1TextBox" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="120,10,0,0" />
+        <TextBox Name="Real2TextBox" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,50,0,0" />
+        <TextBox Name="Imaginary2TextBox" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="120,50,0,0" />
+
+        <Button Content="Add" Width="75" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,90,0,0" Click="AddButton_Click"/>
+        <Button Content="Multiply" Width="75" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="120,90,0,0" Click="MultiplyButton_Click"/>
+        <Button Content="To Exponential" Width="120" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,130,0,0" Click="ToExponentialButton_Click"/>
+
+        <TextBlock Name="ResultTextBlock" Width="442" Height="113" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,170,0,0" />
+        <TextBlock Name="ExponentialTextBlock" Width="465" Height="118" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,210,0,0" />
+    </Grid>
+</Window>

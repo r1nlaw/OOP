@@ -10,7 +10,7 @@ namespace labo3._1
         public SuccessFailureResult DisconnectPowerGenerator()
         {
             if (rand.Next(1, 20) > 18)
-                throw new PowerGeneratorCommsException("Network failure accessing Power Generator monitoring system");
+                throw new PowerGeneratorCommsException("Сбой в сети при доступе к системе мониторинга электрогенератора");
             return SuccessFailureResult.Success;
         }
 
@@ -18,7 +18,7 @@ namespace labo3._1
         public CoolantSystemStatus VerifyPrimaryCoolantSystem()
         {
             if (rand.Next(1, 20) > 18)
-                throw new CoolantTemperatureReadException("Failed to read primary coolant system temperature");
+                throw new CoolantTemperatureReadException("Не удалось определить температуру системы охлаждения первого контура");
             return CoolantSystemStatus.OK;
         }
 
@@ -26,7 +26,7 @@ namespace labo3._1
         public CoolantSystemStatus VerifyBackupCoolantSystem()
         {
             if (rand.Next(1, 20) > 18)
-                throw new CoolantTemperatureReadException("Failed to read backup coolant system temperature");
+                throw new CoolantTemperatureReadException("Не удалось определить температуру резервной системы охлаждения");
             return CoolantSystemStatus.OK;
         }
 
@@ -38,7 +38,7 @@ namespace labo3._1
                 result = SuccessFailureResult.Success;
 
             if (rand.Next(1, 10) > 8)
-                throw new RodClusterReleaseException("Sensor failure, cannot verify rod release");
+                throw new RodClusterReleaseException("Неисправность датчика, не удается проверить высвобождение штока");
 
             return result;
         }
@@ -47,7 +47,7 @@ namespace labo3._1
         public double GetCoreTemperature()
         {
             if (rand.Next(1, 20) > 18)
-                throw new CoreTemperatureReadException("Failed to read core reactor system temperature");
+                throw new CoreTemperatureReadException("Не удалось определить температуру системы активной зоны реактора");
             return rand.NextDouble() * 1000; // Возвращает случайное значение температуры
         }
 
@@ -55,7 +55,7 @@ namespace labo3._1
         public double GetRadiationLevel()
         {
             if (rand.Next(1, 20) > 18)
-                throw new CoreRadiationLevelReadException("Failed to read core reactor system radiation levels");
+                throw new CoreRadiationLevelReadException("Не удалось определить уровень радиации в активной зоне реактора");
             return rand.NextDouble() * 500; // Возвращает случайное значение уровня радиации
         }
 
@@ -63,7 +63,7 @@ namespace labo3._1
         public void SignalShutdownComplete()
         {
             if (rand.Next(1, 20) > 18)
-                throw new SignallingException("Network failure connecting to broadcast systems");
+                throw new SignallingException("Сбой в сети при подключении к системам широковещания");
         }
 
     }
