@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\unkak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7 \u043B\u0430\u0431\u0430\\7.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C201B5FA-745B-43E6-BD82-A63FD298D65B}|7.1\\7.1.csproj|c:\\users\\unkak\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7 \u043B\u0430\u0431\u0430\\7.1\\7.1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C201B5FA-745B-43E6-BD82-A63FD298D65B}|7.1\\7.1.csproj|solutionrelative:7.1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C201B5FA-745B-43E6-BD82-A63FD298D65B}|7.1\\7.1.csproj|c:\\users\\unkak\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7 \u043B\u0430\u0431\u0430\\7.1\\7.1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C201B5FA-745B-43E6-BD82-A63FD298D65B}|7.1\\7.1.csproj|solutionrelative:7.1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C201B5FA-745B-43E6-BD82-A63FD298D65B}|7.1\\7.1.csproj|C:\\Users\\unkak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7 \u043B\u0430\u0431\u0430\\7.1\\7.1\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C201B5FA-745B-43E6-BD82-A63FD298D65B}|7.1\\7.1.csproj|solutionrelative:7.1\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C201B5FA-745B-43E6-BD82-A63FD298D65B}|7.1\\7.1.csproj|C:\\Users\\unkak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7 \u043B\u0430\u0431\u0430\\7.1\\7.1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C201B5FA-745B-43E6-BD82-A63FD298D65B}|7.1\\7.1.csproj|solutionrelative:7.1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\unkak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7 \u043B\u0430\u0431\u0430\\7.1\\7.1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "7.1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\unkak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7 \u043B\u0430\u0431\u0430\\7.1\\7.1\\App.xaml.cs",
+              "RelativeToolTip": "7.1\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T14:53:23.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\unkak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7 \u043B\u0430\u0431\u0430\\7.1\\7.1\\StringToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "7.1\\StringToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\unkak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7 \u043B\u0430\u0431\u0430\\7.1\\7.1\\StringToVisibilityConverter.cs",
+              "RelativeToolTip": "7.1\\StringToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:18:19.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\unkak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7 \u043B\u0430\u0431\u0430\\7.1\\7.1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "7.1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\unkak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7 \u043B\u0430\u0431\u0430\\7.1\\7.1\\MainWindow.xaml",
+              "RelativeToolTip": "7.1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-23T21:54:30.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\unkak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7 \u043B\u0430\u0431\u0430\\7.1\\7.1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "7.1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\unkak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\7 \u043B\u0430\u0431\u0430\\7.1\\7.1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "7.1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAmwIkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T21:54:28.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
