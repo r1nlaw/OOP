@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfApp4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="MainCanvas" >
+        <Canvas x:Name="MyCanvas" Background="LightGray">
+            <Ellipse x:Name="first_ball" Width="50" Height="50" Fill="Red" Canvas.Left="100" Canvas.Top="100"/>
+            <Ellipse x:Name="third_ball" Width="50" Height="50" Fill="Green" Canvas.Left="300" Canvas.Top="300"/>
+            <Ellipse x:Name="fifth_ball" Width="50" Height="50" Fill="Yellow" Canvas.Left="454" Canvas.Top="242"/>
+            <Ellipse x:Name="second_ball" Width="50" Height="50" Fill="Pink" Canvas.Left="600" Canvas.Top="242"/>
+            <Ellipse x:Name="fourth_ball" Width="50" Height="50" Fill="Orange" Canvas.Left="350" Canvas.Top="217"/>
+            <Button x:Name="EndGame" Content="Завершить работу" Height="41" Canvas.Left="668" Canvas.Top="10" Width="122" HorizontalAlignment="Left" VerticalAlignment="Center" Click="EndGame_Click"/>
+        </Canvas>
+        <ScrollViewer Margin="0,234,506,0" RenderTransformOrigin="0.493,0.316">
+            <Label x:Name="logs_label" Background="White" />
+
+        </ScrollViewer>
+    </Grid>
+</Window>

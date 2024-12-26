@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\unkak\\OneDrive\\Рабочий стол\\Новая папка\\LAB5.2\\Лабораторная работа 5-2\\Лабораторная работа 5-2.csproj",
+      "projectUniqueName": "A:\\Others\\OOP\\LAB5\\LAB5.2\\Лабораторная работа 5-2\\Лабораторная работа 5-2.csproj",
       "projectName": "Лабораторная работа 5-2",
-      "projectPath": "C:\\Users\\unkak\\OneDrive\\Рабочий стол\\Новая папка\\LAB5.2\\Лабораторная работа 5-2\\Лабораторная работа 5-2.csproj",
+      "projectPath": "A:\\Others\\OOP\\LAB5\\LAB5.2\\Лабораторная работа 5-2\\Лабораторная работа 5-2.csproj",
       "packagesPath": "C:\\Users\\unkak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\unkak\\OneDrive\\Рабочий стол\\Новая папка\\LAB5.2\\Лабораторная работа 5-2\\obj\\",
+      "outputPath": "A:\\Others\\OOP\\LAB5\\LAB5.2\\Лабораторная работа 5-2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

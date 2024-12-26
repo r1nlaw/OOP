@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="409*"/>
+            <RowDefinition Height="25*"/>
+        </Grid.RowDefinitions>
+        <Button Content="Create Instance" HorizontalAlignment="Left" Margin="39,23,0,0" VerticalAlignment="Top" Height="54" Width="148" Click="CreateInstance_Click"/>
+        <CheckBox x:Name="measuring_system" Content="Imperial" HorizontalAlignment="Left" Margin="702,19,0,0" VerticalAlignment="Top" Width="72" Checked="measuring_system_Checked"/>
+        <Button Content="Start Collecting" HorizontalAlignment="Left" Margin="39,81,0,0" VerticalAlignment="Top" Height="54" Width="148" Click="startCollecting_Click"/>
+        <Button Content="Get Raw Data" HorizontalAlignment="Left" Margin="39,140,0,0" VerticalAlignment="Top" Height="53" Width="148" Click="GetRawData_Click"/>
+        <Button Content="Get Metric Value" HorizontalAlignment="Left" Margin="39,198,0,0" VerticalAlignment="Top" Height="53" Width="148" Click="GetMetricValue"/>
+        <Button Content="Get Imperial Value" HorizontalAlignment="Left" Margin="39,256,0,0" VerticalAlignment="Top" Height="53" Width="148" Click="GetImperialValue"/>
+        <Button Content="Stop Collecting" HorizontalAlignment="Left" Margin="39,314,0,0" VerticalAlignment="Top" Height="53" Width="148" Click="StopCollecting"/>
+        <ScrollViewer Margin="305,27,111,42" RenderTransformOrigin="0.493,0.316">
+
+            <Label x:Name="resultLabel" Content="" Background="#FF8DE3E9"/>
+        </ScrollViewer>
+    </Grid>
+</Window>

@@ -11,7 +11,7 @@ namespace ComplexNumberApp
         // Конструктор для инициализации комплексного числа
         public ComplexNumber(double real, double imaginary)
         {
-            Real = real;
+            Real = real; 
             Imaginary = imaginary;
         }
 

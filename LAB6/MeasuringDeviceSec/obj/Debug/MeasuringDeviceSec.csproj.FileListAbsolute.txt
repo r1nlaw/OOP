@@ -1,0 +1,12 @@
+D:\2 курс\ООП\отчеты\lab6\MeasuringDeviceSec\bin\Debug\MeasuringDeviceSec.dll
+D:\2 курс\ООП\отчеты\lab6\MeasuringDeviceSec\bin\Debug\MeasuringDeviceSec.pdb
+D:\2 курс\ООП\отчеты\lab6\MeasuringDeviceSec\obj\Debug\MeasuringDeviceSec.csproj.AssemblyReference.cache
+D:\2 курс\ООП\отчеты\lab6\MeasuringDeviceSec\obj\Debug\MeasuringDeviceSec.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП\отчеты\lab6\MeasuringDeviceSec\obj\Debug\MeasuringDeviceSec.dll
+D:\2 курс\ООП\отчеты\lab6\MeasuringDeviceSec\obj\Debug\MeasuringDeviceSec.pdb
+C:\Users\unkak\OneDrive\Рабочий стол\lab6\MeasuringDeviceSec\bin\Debug\MeasuringDeviceSec.dll
+C:\Users\unkak\OneDrive\Рабочий стол\lab6\MeasuringDeviceSec\bin\Debug\MeasuringDeviceSec.pdb
+C:\Users\unkak\OneDrive\Рабочий стол\lab6\MeasuringDeviceSec\obj\Debug\MeasuringDeviceSec.csproj.AssemblyReference.cache
+C:\Users\unkak\OneDrive\Рабочий стол\lab6\MeasuringDeviceSec\obj\Debug\MeasuringDeviceSec.csproj.CoreCompileInputs.cache
+C:\Users\unkak\OneDrive\Рабочий стол\lab6\MeasuringDeviceSec\obj\Debug\MeasuringDeviceSec.dll
+C:\Users\unkak\OneDrive\Рабочий стол\lab6\MeasuringDeviceSec\obj\Debug\MeasuringDeviceSec.pdb

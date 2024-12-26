@@ -1,0 +1,7 @@
+D:\2 курс\ООП\отчеты\lab6\example\bin\Debug\example.exe.config
+D:\2 курс\ООП\отчеты\lab6\example\bin\Debug\example.exe
+D:\2 курс\ООП\отчеты\lab6\example\bin\Debug\example.pdb
+D:\2 курс\ООП\отчеты\lab6\example\obj\Debug\example.csproj.AssemblyReference.cache
+D:\2 курс\ООП\отчеты\lab6\example\obj\Debug\example.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП\отчеты\lab6\example\obj\Debug\example.exe
+D:\2 курс\ООП\отчеты\lab6\example\obj\Debug\example.pdb

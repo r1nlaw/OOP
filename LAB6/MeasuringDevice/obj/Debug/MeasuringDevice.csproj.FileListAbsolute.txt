@@ -1,0 +1,12 @@
+D:\2 курс\ООП\отчеты\lab6\MeasuringDevice\obj\Debug\MeasuringDevice.csproj.AssemblyReference.cache
+D:\2 курс\ООП\отчеты\lab6\MeasuringDevice\obj\Debug\MeasuringDevice.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП\отчеты\lab6\MeasuringDevice\bin\Debug\MeasuringDevice.dll
+D:\2 курс\ООП\отчеты\lab6\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
+D:\2 курс\ООП\отчеты\lab6\MeasuringDevice\obj\Debug\MeasuringDevice.dll
+D:\2 курс\ООП\отчеты\lab6\MeasuringDevice\obj\Debug\MeasuringDevice.pdb
+C:\Users\unkak\OneDrive\Рабочий стол\lab6\MeasuringDevice\bin\Debug\MeasuringDevice.dll
+C:\Users\unkak\OneDrive\Рабочий стол\lab6\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
+C:\Users\unkak\OneDrive\Рабочий стол\lab6\MeasuringDevice\obj\Debug\MeasuringDevice.csproj.AssemblyReference.cache
+C:\Users\unkak\OneDrive\Рабочий стол\lab6\MeasuringDevice\obj\Debug\MeasuringDevice.csproj.CoreCompileInputs.cache
+C:\Users\unkak\OneDrive\Рабочий стол\lab6\MeasuringDevice\obj\Debug\MeasuringDevice.dll
+C:\Users\unkak\OneDrive\Рабочий стол\lab6\MeasuringDevice\obj\Debug\MeasuringDevice.pdb
